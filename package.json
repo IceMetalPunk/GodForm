@@ -1,0 +1,13 @@
+{
+  "name": "godform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd client && npm run build && cd ../server && npm run build",
+    "start": "concurrently \"cd client && npm run build-watch\" \"cd server && npm run start\" \"start http://localhost:4141\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

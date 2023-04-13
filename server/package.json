@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "copyfiles": "^2.4.1",
+    "typescript": "^4.9.3"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "rm -rf ./dist && tsc && copyfiles -u 1 src/**/*.css src/**/*.html src/**/*.jpeg src/**/*.jpg src/**/*.png src/**/*.bmp src/**/*.gif dist",
+    "start": "npm run build && node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
