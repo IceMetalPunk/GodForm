@@ -6,7 +6,7 @@ Currently very early in production; excuse the disorganized and limited info!
 >
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Soon, little was left of your kind, and the planet we had gifted eons ago was left in ruins. We decided it was our time to restore the damage in our way: we the gods, we the demigods, we the beings you told stories about but often refused to know.
 >
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"There was only the question left of how to allocate the world among us. Who would get what, were, and how much? Discussions became debates, debates became arguments, and before long the scarred remains of Earth you'd left behind became host to an all-out war. A war amongst the gods, in all our myriad forms."
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"There was only the question left of how to allocate the world among us. Who would get what, where, and how much? Discussions became debates, debates became arguments, and before long the scarred remains of Earth you'd left behind became host to an all-out war. A war amongst the gods, in all our myriad forms."
 
 ## Basic Premise
 
